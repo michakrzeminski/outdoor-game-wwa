@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Mapa Warszawy</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet-omnivore@0.3.4/leaflet-omnivore.min.js"></script>
+</head>
+<body>
+    <div class="controls">
+        <label>
+            <input type="checkbox" id="toggle-districts" checked>
+            Pokaż granice dzielnic
+        </label>
+        <div class="legend">
+            <button id="toggle-legend">Legenda</button>
+            <div id="legend-content" style="display: none;">
+                <h4>Legenda</h4>
+                <ul>
+                    <li><img src="https://www.google.com/mapfiles/ms/icons/blue-dot.png"> Wolne</li>
+                    <li><img src="https://www.google.com/mapfiles/ms/icons/red-dot.png"> Team 1</li>
+                    <li><img src="https://www.google.com/mapfiles/ms/icons/green-dot.png"> Team 2</li>
+                    <!-- <li><img src="https://www.google.com/mapfiles/ms/icons/yellow-dot.png"> Team 3</li> -->
+                    <!-- <li><img src="https://www.google.com/mapfiles/ms/icons/orange-dot.png"> Team 4</li> -->
+                    <!-- Dodaj inne elementy legendy -->
+                </ul>
+            </div>
+            <button id="toggle-points">Punktacja</button>
+            <div id="points-content" style="display: none;">
+                <h4>Dzielnice</h4>
+                <ul>
+                    <li><img src="https://www.google.com/mapfiles/ms/icons/red-dot.png"> <span id="points1">0</span></li>
+                    <li><img src="https://www.google.com/mapfiles/ms/icons/green-dot.png"><span id="points2">0</span></li>
+                    <!-- <li><img src="https://www.google.com/mapfiles/ms/icons/yellow-dot.png"><span id="points3">0</span></li> -->
+                    <!-- <li><img src="https://www.google.com/mapfiles/ms/icons/orange-dot.png"><span id="points3">0</span></li> -->
+                    <!-- Dodaj inne elementy legendy -->
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div id="map"></div>
+    <script src="script.js"></script>
+</body>
+</html>
