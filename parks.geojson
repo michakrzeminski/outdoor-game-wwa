@@ -1,0 +1,2343 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Żoliborz",
+                "name": "Park Żeromskiego"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9894451,
+                    52.2682657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Śródmieście",
+                "name": "Ogród Saski"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0083569,
+                    52.2406995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Mokotów",
+                "name": "Skwer Antoniego Słonimskiego"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0116042,
+                    52.20552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Ochota",
+                "name": "Park Szczęśliwicki"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9593822,
+                    52.2053059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Mokotów",
+                "name": "Skwer Stanisława Broniewskiego \"Orszy\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0224313,
+                    52.2031267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Mokotów",
+                "name": "Park Dreszera"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0214111,
+                    52.1974842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Mokotów",
+                "name": "Morskie Oko"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0280288,
+                    52.2053664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Mokotów",
+                "name": "Skwer Tarasa Szewczenki"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0232549,
+                    52.2117484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Mokotów",
+                "name": "Skwer Grupy AK \"Granat\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0231456,
+                    52.1890455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Śródmieście",
+                "name": "Park Ujazdowski"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0257262,
+                    52.2220363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Wola",
+                "name": "Park Moczydło"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9529729,
+                    52.241005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Praga-Południe",
+                "name": "Kamionkowskie Błonia Elekcyjne"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0646288,
+                    52.2430456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Śródmieście",
+                "name": "Dolina Szwajcarska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0222784,
+                    52.2223459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Śródmieście",
+                "name": "Park Świętokrzyski"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0055627,
+                    52.2338253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Wilanów",
+                "name": "Park Wilanowski"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0894957,
+                    52.1661363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Ochota",
+                "name": "Pole Mokotowskie"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0018767,
+                    52.2121399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Śródmieście",
+                "name": "Skwer Kapitana Stanisława Skibniewskiego \"Cubryny\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0272642,
+                    52.2429054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Śródmieście",
+                "name": "Skwer Tadeusza Kahla"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0329498,
+                    52.2385472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Praga-Południe",
+                "name": "Park Skaryszewski"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0550987,
+                    52.2422588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Wola",
+                "name": "Skwer gen. Jana Jura-Gorzechowskiego"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9880194,
+                    52.2454911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Wola",
+                "name": "Park im. Księcia Janusza"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9417949,
+                    52.2489445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Śródmieście",
+                "name": "Park im. Marszałka Edwarda Rydza-Śmigłego"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.033523,
+                    52.2276734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Ochota",
+                "name": "Skwer Dobrego Maharadży"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9678209,
+                    52.2101916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Żoliborz",
+                "name": "Park Kaskada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9710968,
+                    52.2733793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Śródmieście",
+                "name": "Ogród BUW (Górny)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0250427,
+                    52.2426797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Ursus",
+                "name": "Park Hassów"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.8738974,
+                    52.1969347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Śródmieście",
+                "name": "Park Traugutta"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0054727,
+                    52.2578126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Ochota",
+                "name": "Skwer Sue Ryder"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9919267,
+                    52.2176821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Śródmieście",
+                "name": "Ogród Krasińskich"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0021548,
+                    52.2481577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Żoliborz",
+                "name": "Skwer Kompanii AK \"Żniwiarz\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9872226,
+                    52.2707426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Wola",
+                "name": "Skwer Alojzego Pawełka"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9683601,
+                    52.2251481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Śródmieście",
+                "name": "Park Kazimierzowski"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0207262,
+                    52.2414076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Śródmieście",
+                "name": "Skwer Stanisława Jankowskiego „Agatona”"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0218367,
+                    52.2430809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Wola",
+                "name": "Park im. Edwarda Szymańskiego"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9517656,
+                    52.2339446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Ochota",
+                "name": "Park Wielkopolski"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9945553,
+                    52.2178737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Praga-Południe",
+                "name": "Park Pułkownika Jana Szypowskiego \"Leśnika\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1117752,
+                    52.2419302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Ursynów",
+                "name": "Park przy Bażantarni"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0656559,
+                    52.1370588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Praga-Południe",
+                "name": "Park Józefa Polińskiego"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0902466,
+                    52.2488837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Ochota",
+                "name": "Park Zasława Malickiego"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9790545,
+                    52.2035373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Śródmieście",
+                "name": "Park na Książęcem"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0270765,
+                    52.2317417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Mokotów",
+                "name": "Królikarnia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0271478,
+                    52.1891423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Żoliborz",
+                "name": "Kępa Potocka"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9855414,
+                    52.2814087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Mokotów",
+                "name": "Dolinka Służewska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0294151,
+                    52.1692421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Ochota",
+                "name": "Park Marii Skłodowskiej-Curie"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9848112,
+                    52.2145457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Mokotów",
+                "name": "Park Sielecki"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0406796,
+                    52.1990347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Włochy",
+                "name": "Park Kombatantów"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9127156,
+                    52.207194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Ursynów",
+                "name": "Park Jana Pawła II"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.028653,
+                    52.1562642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Śródmieście",
+                "name": "Skwer Księdza Jana Twardowskiego"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0168232,
+                    52.2418076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Targówek",
+                "name": "Park Bródnowski"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0368489,
+                    52.2906105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Praga-Południe",
+                "name": "Park Obwodu Praga AK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0730768,
+                    52.2469823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Wawer",
+                "name": "Park im. Matki Mojej"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1455573,
+                    52.2335406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Ursynów",
+                "name": "Park Romana Kozłowskiego"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0228101,
+                    52.1640928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Śródmieście",
+                "name": "Łazienki Królewskie"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0336271,
+                    52.2125739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Śródmieście",
+                "name": "Ogrody Zamkowe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0162091,
+                    52.2483653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Śródmieście",
+                "name": "Skwer Bohdana Wodiczko"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0235919,
+                    52.235756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Bielany",
+                "name": "Park przy Lesie Bielańskim"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9706071,
+                    52.2923023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Śródmieście",
+                "name": "Skwer 1 Dywizji Pancernej WP"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0112638,
+                    52.2540833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Praga-Północ",
+                "name": "Skwer Michała i Marii Radziwiłłów"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0597155,
+                    52.2575468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Wola",
+                "name": "Skwer Racheli Auerbach"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9850766,
+                    52.2445286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Ursus",
+                "name": "Park Czechowicki"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.8848959,
+                    52.1921039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Ochota",
+                "name": "Fort Rakowiec"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9752978,
+                    52.2006107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Włochy",
+                "name": "Skwer 7 Pułku Piechoty Armii Krajowej \"Garłuch\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9774727,
+                    52.1798156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Targówek",
+                "name": "Park Stefana Wiecheckiego „Wiecha”"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0511097,
+                    52.271903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Mokotów",
+                "name": "Skwer \"Starszych Panów\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0688967,
+                    52.1892107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Mokotów",
+                "name": "Park Czesława Szczubełka"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0684968,
+                    52.1835167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Śródmieście",
+                "name": "Skwer Batalionu Harcerskiego AK \"Wigry\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9998705,
+                    52.2450747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Praga-Północ",
+                "name": "Skwer pułkownika Antoniego Władysława Żurowskiego"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0352787,
+                    52.2591632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Śródmieście",
+                "name": "Skwer Herberta Clarka Hoovera"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0144998,
+                    52.2445549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Praga-Południe",
+                "name": "Skwer 1 Dywizji Grenadierów Francja 1940 Roku"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.081881,
+                    52.2410219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Śródmieście",
+                "name": "Park Tadeusza Mazowieckiego"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0318069,
+                    52.2225365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Śródmieście",
+                "name": "Skwer Mieczysława Fogga"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0189392,
+                    52.2135507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Śródmieście",
+                "name": "Skwer Oleandrów"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0189132,
+                    52.2159754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Mokotów",
+                "name": "Skwer Ormiański"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0652939,
+                    52.183275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Włochy",
+                "name": "Park Marka Kotańskiego"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9677295,
+                    52.1959153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Śródmieście",
+                "name": "Park Mirowski"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.999882,
+                    52.2382628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Wola",
+                "name": "Park Józefa Sowińskiego"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9479534,
+                    52.2308507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Bemowo",
+                "name": "Polanka"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9212279,
+                    52.2256949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Włochy",
+                "name": "Ogrody Kosmosu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9225462,
+                    52.2100292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Śródmieście",
+                "name": "Skwer Radiowej Rodziny Matysiaków"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0211898,
+                    52.2455591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Śródmieście",
+                "name": "Skwer Adolfa Marii Bocheńskiego"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.008444,
+                    52.2456957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Wola",
+                "name": "Skwer Wandy Lurie"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9678471,
+                    52.2352724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Wola",
+                "name": "Skwer Gwary Warszawskiej"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9737043,
+                    52.2364802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Ursus",
+                "name": "Park Achera"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.8953761,
+                    52.195762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Praga-Północ",
+                "name": "Park Praski"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0274012,
+                    52.2534948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Żoliborz",
+                "name": "Skwer Igora Newerlego"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9800311,
+                    52.2711657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Żoliborz",
+                "name": "Park Sady Żoliborskie"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9724691,
+                    52.2675611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Żoliborz",
+                "name": "Park Żołnierzy \"Żywiciela\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9774535,
+                    52.2687437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Włochy",
+                "name": "Skwer Bazy Lotniczej Armii Krajowej \"Łużyce\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9772094,
+                    52.1805741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Białołęka",
+                "name": "Park Picassa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.952573,
+                    52.3121627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Praga-Południe",
+                "name": "Park Znicza"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0959609,
+                    52.2376347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Bielany",
+                "name": "Skwer Jerzego Jarnuszkiewicza"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.951028,
+                    52.2742473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Bielany",
+                "name": "Park Zbigniewa Herberta"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9554235,
+                    52.2733578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Wola",
+                "name": "Park Powstańców Warszawy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9379456,
+                    52.2266933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Śródmieście",
+                "name": "Skwer Jerzego Janickiego"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0340182,
+                    52.2300726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Śródmieście",
+                "name": "Park Janiny Porazińskiej"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0333081,
+                    52.23223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Ursynów",
+                "name": "Park im. Cichociemnych Spadochroniarzy AK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0433107,
+                    52.137101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Wilanów",
+                "name": "Park Natoliński"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0781087,
+                    52.1421219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Ursynów",
+                "name": "Park Olkówek"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0239047,
+                    52.1601364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Śródmieście",
+                "name": "Park Odkrywców"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0301135,
+                    52.2412382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Mokotów",
+                "name": "Skwer Chorwacki"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0384874,
+                    52.2045033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Praga-Południe",
+                "name": "Skwer Seniora"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0805207,
+                    52.2492489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Ochota",
+                "name": "Skwer Alfonsa Grotowskiego"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.996537,
+                    52.2243761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Białołęka",
+                "name": "Park Henrykowski"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9677879,
+                    52.3312375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Mokotów",
+                "name": "Arkadia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0286367,
+                    52.1906876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Wola",
+                "name": "Ogrody Ulrychów"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9323036,
+                    52.2404997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Śródmieście",
+                "name": "Skwer Batalionu AK \"Zaremba-Piorun\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0101555,
+                    52.2266831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Włochy",
+                "name": "Park ze Stawami Cietrzewia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9232616,
+                    52.2009789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Śródmieście",
+                "name": "Skwer Karoliny Lanckorońskiej"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0143344,
+                    52.2508263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Mokotów",
+                "name": "Park Stanisława Dygata"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0559753,
+                    52.1871861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Śródmieście",
+                "name": "Skwer Batalionu AK \"Miłosz\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0268565,
+                    52.2274866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Ursynów",
+                "name": "Park Moczydełko"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0543704,
+                    52.131987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Mokotów",
+                "name": "Park nad Stawem Służewieckim"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.014038,
+                    52.1691527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Ursus",
+                "name": "Skwer Księdza Kazimierza Szklarczyka"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.8855538,
+                    52.1946095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Praga-Południe",
+                "name": "Park Nad Balatonem"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0877856,
+                    52.2294593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Bielany",
+                "name": "Park Harcerskiej Poczty Polowej Powstania Warszawskiego"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9785799,
+                    52.2808167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Ursynów",
+                "name": "Skwerek Złotówki"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0631849,
+                    52.1299595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Praga-Północ",
+                "name": "Park Michałowski"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0630176,
+                    52.2586135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Ursynów",
+                "name": "Skwer Muzyki Węgierskiej"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0318251,
+                    52.1623903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Targówek",
+                "name": "Skwer Grzegorza Ciechowskiego"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0531222,
+                    52.291805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Wilanów",
+                "name": "Skwer Franciszka Pieniaka"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1028712,
+                    52.1200052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Bemowo",
+                "name": "Park Górczewska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9041758,
+                    52.2334433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Żoliborz",
+                "name": "Skwer Barbary i Stanisława Brukalskich"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9848185,
+                    52.2664271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Wola",
+                "name": "Skwer Psa Fafika"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9873745,
+                    52.2376723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Bielany",
+                "name": "Stawy Kellera"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9677382,
+                    52.2775886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Żoliborz",
+                "name": "Park Fosa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9988776,
+                    52.2647298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Śródmieście",
+                "name": "Skwer Duśki Trafankowskiej"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9996801,
+                    52.2429942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Mokotów",
+                "name": "Skwer Małkowskich"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0263817,
+                    52.1979781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Śródmieście",
+                "name": "Skwer Straży Obywatelskiej 1939 r."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0168773,
+                    52.2349871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Śródmieście",
+                "name": "Park Jazdów"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0293914,
+                    52.2193496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Śródmieście",
+                "name": "Park Agrykola"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0319828,
+                    52.219451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Białołęka",
+                "name": "Park Ireny Jarockiej"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.947235,
+                    52.3344561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Żoliborz",
+                "name": "Skwer Andrzeja Woyciechowskiego"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9961228,
+                    52.2674284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Białołęka",
+                "name": "Park Magiczna"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0585866,
+                    52.3123059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Wola",
+                "name": "Skwer Teodora Klincewicza"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9352196,
+                    52.2292456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Śródmieście",
+                "name": "Park Karola Beyera"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0277222,
+                    52.2343272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Targówek",
+                "name": "Skwer Bolesława Dubickiego"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0516083,
+                    52.2802889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Mokotów",
+                "name": "Skwer Jolanty Brzeskiej"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.041498,
+                    52.2056117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Wola",
+                "name": "Różany Skwer Pysznych Pączków"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9675315,
+                    52.236733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Żoliborz",
+                "name": "Skwer Kaliny"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9689577,
+                    52.2555059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Wola",
+                "name": "Skwer Sierpnia 1944"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9649811,
+                    52.2342878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Wola",
+                "name": "Skwer Sybiraków"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9934836,
+                    52.2376919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Ochota",
+                "name": "Park Pięciu Sióstr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9661826,
+                    52.2167525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Białołęka",
+                "name": "Skwer Teherański"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9446441,
+                    52.3341286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Śródmieście",
+                "name": "Skwer Anki Kowalskiej"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0242963,
+                    52.2346189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Wola",
+                "name": "Skwer Isaaca Bashevisa Singera"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9951597,
+                    52.2369867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Śródmieście",
+                "name": "Skwer Willy'ego Brandta"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9913909,
+                    52.2494739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Bielany",
+                "name": "Skwer 30. Pułku Strzelców Kaniowskich"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9280641,
+                    52.2932005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Białołęka",
+                "name": "Park Ogrody Mehoffera"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9476946,
+                    52.3256766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Ursynów",
+                "name": "Park nad Jeziorem Zgorzała"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.999274,
+                    52.1204065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Ursynów",
+                "name": "Park Polskich Wynalazców"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0518864,
+                    52.1530569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Mokotów",
+                "name": "Park Bartłomieja"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0054005,
+                    52.1692084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Wilanów",
+                "name": "Wege Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0601182,
+                    52.1576131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Ursynów",
+                "name": "Park Rozkosz"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0489478,
+                    52.1641976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Włochy",
+                "name": "Plac Wolności"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.8958165,
+                    52.2052751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Wilanów",
+                "name": "Skwer Prymasowski"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.086632,
+                    52.1661032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Włochy",
+                "name": "Park ze Stawem Koziorożca"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9111605,
+                    52.2098194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Włochy",
+                "name": "Skwer 16 Września 1944 r."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9061824,
+                    52.2076718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Ursus",
+                "name": "Park Planeta Ursus"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.889436,
+                    52.1989019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Mokotów",
+                "name": "Skwer Słoweński"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0142216,
+                    52.2068169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Śródmieście",
+                "name": "Skwer Więźniów Politycznych Stalinizmu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9980692,
+                    52.2482588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Wola",
+                "name": "Park Wolności"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9815316,
+                    52.2317581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Wola",
+                "name": "Skwer Wiesława Michnikowskiego"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9298889,
+                    52.2307677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Wola",
+                "name": "Skwer Hanki Bielickiej"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9796074,
+                    52.2377237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Żoliborz",
+                "name": "Skwer Krasińskiego"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9716172,
+                    52.2637377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Mokotów",
+                "name": "Park Akcji \"Burza\""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0551679,
+                    52.2113009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Wola",
+                "name": "Skwer Zielone Odolany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9360865,
+                    52.2227559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "district": "Praga-Północ",
+                "name": "Skwer Kępna-Jagiellońska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0370344,
+                    52.2485987
+                ]
+            }
+        }
+    ]
+}

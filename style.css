@@ -17,14 +17,20 @@ body {
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
     z-index: 1000;
+    max-width: 200px;
+}
+
+.controls label {
+    float: left;
+    width: 100%;
 }
 
 .legend {
-    margin: 10px;
-    padding: 10px;
+    /* margin: 10px; */
+    /* padding: 10px; */
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-    max-width: 200px;
+    /* max-width: 200px; */
 }
 
 .legend button {
@@ -49,4 +55,9 @@ body {
 
 .legend img {
     margin-right: 8px;
+}
+
+.content {
+    padding-left: 10px;
+    padding-bottom: 10px;
 }

@@ -13,11 +13,15 @@
     <div class="controls">
         <label>
             <input type="checkbox" id="toggle-districts" checked>
-            Pokaż granice dzielnic
+            Pokaż dzielnice
+        </label>
+        <label>
+            <input type="checkbox" id="toggle-parks" checked>
+            Pokaż parki
         </label>
         <div class="legend">
             <button id="toggle-legend">Legenda</button>
-            <div id="legend-content" style="display: none;">
+            <div id="legend-content" style="display: none;" class="content">
                 <h4>Legenda</h4>
                 <ul>
                     <li><img src="https://www.google.com/mapfiles/ms/icons/blue-dot.png"> Wolne</li>
@@ -29,7 +33,7 @@
                 </ul>
             </div>
             <button id="toggle-points">Punktacja</button>
-            <div id="points-content" style="display: none;">
+            <div id="points-content" style="display: none;" class="content">
                 <h4>Dzielnice</h4>
                 <ul>
                     <li><img src="https://www.google.com/mapfiles/ms/icons/red-dot.png"> <span id="points1">0</span></li>
